@@ -1,0 +1,2 @@
+Modified Serpent cipher using the RC4 KeyStream as the round keys.
+-Works only on a 32 bit machine.
